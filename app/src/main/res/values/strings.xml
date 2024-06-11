@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WheatherApp</string>
+    <string name="chance_of_rain">Chance Of Rain</string>
+    <string name="humidity">Humidity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">logo</string>
+    <string name="designed_by_n_nitin_patil">Designed By\n Nitin Patil</string>
+    <string name="weather_matters_n_we_ve_got_the_details">Weather Matters \n We\'ve Got the Details</string>
+    <string name="search_for_a_city">Search for a city</string>
+    <string name="wind_speed">wind speed</string>
+    <string name="conditions">Conditions</string>
+    <string name="rain">Rain</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="sea">Sea</string>
+    <string name="today">Today</string>
+    <string name="dhule">Dhule</string>
+</resources>
